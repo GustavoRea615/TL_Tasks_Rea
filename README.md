@@ -28,6 +28,8 @@ En estos momentos tendré desplegado el sistema frontend en la url:   `https://j
 2. Instala las dependencias con `npm install`.
 3. Inicia la aplicación con `ng serve` o `npm start`.
 
+## Estructura del proyecto 
+
 ### Backend - NodeJs y Express
 
 backend-nodejs-tl           
@@ -156,4 +158,3 @@ Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo LICENSE pa
     "typescript": "~4.7.2"  
   }  
 
-  
