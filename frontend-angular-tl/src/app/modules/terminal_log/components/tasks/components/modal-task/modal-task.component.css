@@ -1,0 +1,16 @@
+.task-form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    overflow: hidden;
+  }
+  
+  .full-width {
+    width: 100%;
+  }
+  
+  mat-dialog-content {
+    max-height: calc(100vh - 200px); /* Adjust this value if needed */
+    overflow: hidden;
+  }
+  
